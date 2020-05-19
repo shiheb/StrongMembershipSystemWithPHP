@@ -1,5 +1,6 @@
-# StrongMemeshipSystemWithPHP
-Strong Memeship System With PHP
+# StrongMembershipSystemWithPHP
+
+Strong Membership System With PHP
 
 ## Screnshots
 
