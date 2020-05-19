@@ -1,6 +1,6 @@
 # StrongMembershipSystemWithPHP
 
-Strong Membership System With PHP
+Strong secured Membership System created With PHP
 
 ## Screnshots
 
